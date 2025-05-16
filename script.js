@@ -39,7 +39,7 @@ function limpiarPantalla() {
     pantalla.value = "";
 }
 
-/* 🎯 Evento para detectar entrada por teclado */
+/*  Evento para detectar entrada por teclado */
 document.addEventListener("keydown", function(event) {
     let tecla = event.key;
 
